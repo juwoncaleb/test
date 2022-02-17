@@ -187,7 +187,7 @@ const [male , setMale] = useState("")
         </section>
       </form>
       <div className="flex justify-around	">
-        <button className="btn11 " >Prev</button>
+        <button className="btn11 ">Prev</button>
         <button className="btn1" onClick={() => router.push("/Page2")}>
           Next
         </button>
