@@ -187,7 +187,7 @@ setZip(storedZip)
         </section>
       </form>
       <div className="flex justify-around	">
-        <button className="btn1 " onClick={() => router.push("/Form")}>Prev</button>
+        <button className="btn1 ">Prev</button>
         <button className="btn1" onClick={() => router.push("/Page3")}>
           Next
         </button>

@@ -173,7 +173,7 @@ console.log(Count);
       </div>
 
       <div className="flex justify-around	">
-        <button className="btn1 " onClick={() => router.push("/Page2")}>Prev</button>
+        <button className="btn1 " onClick={() => router.push("/Page3")}>Prev</button>
         <button className="btn1" onClick={() => router.push("/Page4")}>
           Next
         </button>
