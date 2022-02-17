@@ -1,3 +1,4 @@
+import { Provider } from 'react-redux'
 
 import {Provider as AuthProvider} from "next-auth/client"
 import { RecoilRoot } from "recoil";
